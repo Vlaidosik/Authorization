@@ -1,0 +1,25 @@
+.main_div {
+  width: 100%;
+
+  .layout {
+    height: 100vh;
+
+    .header {
+      width: 100%;
+    }
+    .menu {
+      display: flex;
+      flex-direction: column;
+
+      .main_menu {
+        width: 100%;
+
+      }
+    }
+  }
+}
+
+
+.ant-layout ant-layout-has-sider {
+  margin: 20px;
+}

@@ -1,0 +1,33 @@
+.authorize {
+  width: 600px;
+  height: 600px;
+  border: 2px solid #5592f6;
+  border-radius: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+h1 {
+  color: #5592f6;
+}
+.button_auth {
+  width: 400px;
+}
+
+.input_auth {
+  width: 400px;
+}
+
+.input_pass {
+  width: 400px;
+}
+
+.remember_me {
+  margin: 0 auto;
+}
+
+
+
